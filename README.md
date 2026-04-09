@@ -1,4 +1,6 @@
 Fair-Income-Predictor: Mitigating Gender Bias in ML
+
+
 This project demonstrates the application of Algorithmic Fairness techniques on the Adult Census Income dataset. Using the Fairlearn toolkit, I identify and mitigate gender-based disparities in salary prediction models.
 
 🧠 The Research Problem
